@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/jc-airport-7l4-shepherdfield/Thumbnail.jpg",
+      "size": 13520,
+      "date": 132386486720000000
+    },
+    {
+      "path": "manifest.json",
+      "size": 272,
+      "date": 132499696905476247
+    },
+    {
+      "path": "scenery/7L4-airport.bgl",
+      "size": 4440,
+      "date": 132500290163432054
+    },
+    {
+      "path": "scenery/CVX0074.BGL",
+      "size": 918,
+      "date": 132499696904939216
+    }
+  ]
+}
